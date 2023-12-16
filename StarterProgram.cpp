@@ -3,8 +3,7 @@
 using namespace std;
 
 #define ll long long
-
-//sort(a, a + n); a = {1, 2, 3, 5, 9};
+#define endl '\n'
 
 void solve(){
 	
